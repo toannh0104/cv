@@ -327,7 +327,7 @@
 	/* CV Sections */
 	
 	.cv-section {
-		padding-bottom: 50px;
+		padding-bottom: 20px;
 		border-bottom: 1px solid #e1e1e1;
 		margin-bottom: 60px;
 	}
@@ -452,7 +452,7 @@
 /* #Personal Profile
    ========================================================================== */
    	
-	#personal-profile { padding: 20px 0 80px 0; }
+	#personal-profile {padding: 0px 0 0px 0;}
 	
 	.personal-details { list-style: none; }
 	
@@ -471,8 +471,7 @@
    ========================================================================== */
    
    	#work-experience {
-		padding: 0px 0 80px 0;
-		
+		padding: 20px 0 20px 0;
 	}
 	
 	#work-experience .headline p span { background-color: #f6f6f6; }
@@ -1747,11 +1746,11 @@
 		position: relative;
 		display: inline-block;
 		border: 1px solid #252525;
-		margin-bottom: 50px;
+		margin-bottom: 20px;
 		color: #252525;
 		font: 12px 'PT Sans', sans-serif;
 		line-height: 20px;
-		text-align: center; 
+		text-align: center;
 	}
 	
 	.headline h1 {
@@ -1762,7 +1761,7 @@
 	}
 	
 	.headline h2 {
-		padding: 30px 40px;	
+		padding: 20px 30px;
 		margin-bottom: 0;
 		text-transform: uppercase;
 		line-height: 24px;
